@@ -1,0 +1,3 @@
+/home/ahmedosama9714/Desktop/AdaptivePlatform/ara/core/build/CMakeFiles/ErrorTypes_Test_Main.dir
+/home/ahmedosama9714/Desktop/AdaptivePlatform/ara/core/build/CMakeFiles/edit_cache.dir
+/home/ahmedosama9714/Desktop/AdaptivePlatform/ara/core/build/CMakeFiles/rebuild_cache.dir
